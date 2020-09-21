@@ -5,3 +5,5 @@ making_traindata :スクレイピングしたCSVとネットでダウンロー�
                         train_by_year_asiya  :　トレインデータを一年ごとに出力するためのフォルダ（需要はほとんどない）
 　　　　　　　　　　　　join_toll.ipynb      :racer_IDとパラメータをくっつけて学習データを出力するノートブック
 
+shulkei          :データの基礎集計用のフォルダ(平均値、中央値での期待値、分布など)
+
