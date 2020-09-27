@@ -6,4 +6,6 @@ making_traindata :スクレイピングしたCSVとネットでダウンロー�
 　　　　　　　　　　　　join_toll.ipynb      :racer_IDとパラメータをくっつけて学習データを出力するノートブック
 
 shulkei          :データの基礎集計用のフォルダ(平均値、中央値での期待値、分布など)
+score_analysis   :探索的に探したcom_パラメータを評価
+
 
