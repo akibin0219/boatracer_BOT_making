@@ -1,0 +1,2 @@
+date_model:モデルの作成にdateのデータを使用しているモデルのpickleデータ
+model:もともとの最初に三着までの予測をするdateを使ってないモデルのpickleデータ。
